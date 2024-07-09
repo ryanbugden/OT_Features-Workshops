@@ -24,7 +24,7 @@ languagesystem latn dflt;
 
 # Write a feature, in this case, Stylistic Set 1
 feature ss01 {
-	sub @ss01_off by @ss01_on;
+    sub @ss01_off by @ss01_on;
 } ss01;
 ```
 
