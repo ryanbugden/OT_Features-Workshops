@@ -59,7 +59,7 @@ These were listed in alphabetical order, but then reordered for grouping purpose
 | `lnum`          | Lining Figures                      | Glyph swaps from oldstyle (lowercase) figures to lining (uppercase) figures.
 | `onum`          | Oldstyle Figures                    | Glyph swaps from lining (uppercase) figures to oldstyle (lowercase) figures.
 | `tnum`          | Tabular Figures                     | Glyph swaps from proportional figures to tabular (monospaced) figures.
-| `pnum`          | Tabular Figures                     | Glyph swaps from tabular (monospaced) figures to proportional figures.
+| `pnum`          | Proportional Figures                | Glyph swaps from tabular (monospaced) figures to proportional figures.
 | `locl`          | Localized Forms                     | Glyph swaps depending on geographic context.
 | `salt`          | Stylistic Alternates                | Glyph swaps for general stylistic effect.
 | `ss01` – `ss20` | Stylistic Set 1 – Stylistic Set 20  | Glyph swaps for stylistic effect, usually named sets with specific themes.
