@@ -45,7 +45,11 @@ For a list of all supported OpenType features, refer to [this link](https://lear
 
 ## Examples
 
-### Minimal but still works
+Below, you will see examples of OpenType Feature File code, ranging from simple to complex. Each of them is self-contained and hypothetically fully functional. 
+
+### Minimalist Structure
+This is the most bare-bones way you can write OpenType code. This works, though!
+
 ```afdko
 feature liga {       # Simply initialize the feature, in this case Standard Ligatures...
     sub f f by f_f;  # make a swap rule ...
@@ -53,6 +57,8 @@ feature liga {       # Simply initialize the feature, in this case Standard Liga
 ```
 
 ### Basic Structure
+Here, we're being explicit about the font being intended for Latin-based support / usage.
+
 ```afdko
 # Establish the geographic and script locale
 languagesystem DFLT dflt;
@@ -67,7 +73,15 @@ feature ss01 {
 ```
 
 
-### Full Complex Structure
+### Complex Structure
+As your desired features become more and more complex, it would be a good idea to use good organizational habits, as seen in the last example. Below, you will see:
+
+* Script tags
+* Defined @ variables
+* Defined lookup
+* Feature declaration
+* A name for that feature
+* A referenced lookup
 
 ```afdko
 # Establish the geographic and script locale
@@ -85,6 +99,11 @@ lookup my_cool_lookup {
 
 # Write a feature, in this case, Stylistic Set 1
 feature ss01 {
+    # Optional: Define the feature name for Stylistic Set 01
+    featureNames {
+        name 1 0 0 "My Cool Set";  # Unicode platform, Default script, Default language
+    };
+    
     # Reference the lookup you set up earlier
     lookup my_cool_lookup;
 } ss01;
