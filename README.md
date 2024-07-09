@@ -47,12 +47,9 @@ For a list of all supported OpenType features, refer to [this link](https://lear
 
 ### Minimal but still works
 ```afdko
-# Simply initialize the feature, in this case Standard Ligatures...
-feature liga {
-    # make a swap rule ...
-    sub f f by f_f;
-# and close the feature.
-} liga;
+feature liga { # Simply initialize the feature, in this case Standard Ligatures...
+    sub f f by f_f; # make a swap rule ...
+} liga; # and close the feature.
 ```
 
 ### Basic Structure
