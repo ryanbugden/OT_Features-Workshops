@@ -11,14 +11,6 @@ To enhance your fonts with the added power of OpenType features, all you need to
 1. Add extra glyphs for any desired substitutions.
 2. Write a bit of code (in a syntax specified by Adobe) to define the conditions under which these swaps or positional changes occur.
 
-## Resources
-
-* [OpenType Cookbook](https://opentypecookbook.com/), by Tal Leming
-* [Introduction to OpenType Programming](https://simoncozens.github.io/fonts-and-layout/features.html), by Simon Cozens
-* [OpenType Feature File Specification](https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html), by Adobe
-* [OpenType Layout Specification](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae), by Microsoft
-* [List of All OpenType Feature Tags](https://learn.microsoft.com/en-us/typography/opentype/spec/featurelist), by Microsoft
-
 ## Common OpenType Features
 #### ** in Latin-based type-setting
 
@@ -101,5 +93,12 @@ feature ss01 {
 } ss01;
 ```
 
+## Resources
+
+* [OpenType Cookbook](https://opentypecookbook.com/), by Tal Leming
+* [Introduction to OpenType Programming](https://simoncozens.github.io/fonts-and-layout/features.html), by Simon Cozens
+* [OpenType Feature File Specification](https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html), by Adobe
+* [OpenType Layout Specification](https://learn.microsoft.com/en-us/typography/opentype/spec/features_ae), by Microsoft
+* [List of All OpenType Feature Tags](https://learn.microsoft.com/en-us/typography/opentype/spec/featurelist), by Microsoft
 
 
