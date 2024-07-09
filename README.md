@@ -56,8 +56,8 @@ lookup my_cool_lookup {
 
 # Write a feature, in this case, Stylistic Set 1
 feature ss01 {
-	# Reference the lookup you set  up earlier
-    lookup myAlternates;
+	# Reference the lookup you set up earlier
+    lookup my_cool_lookup;
 } ss01;
 ```
 
