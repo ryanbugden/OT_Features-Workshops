@@ -11,7 +11,34 @@ To enhance your fonts with the added power of OpenType features, all you need to
 1. Add extra glyphs for any desired substitutions.
 2. Write a bit of code (in a syntax specified by Adobe) to define the conditions under which these swaps or positional changes occur.
 
-## Basic Example of OpenType Feature Code
+## Examples
+
+### Minimal but still works
+```afdko
+# Simply initialize the feature...
+feature liga {
+	# ... make a swap rule ...
+    sub f f by f_f;
+# ... and close the feature.
+} liga;
+```
+
+### Basic Structure
+```afdko
+# Establish the geographic and script locale
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# Write a feature, in this case, Stylistic Set 1
+feature ss01 {
+	sub A by A.ss01;
+	sub B by B.ss01;
+	sub C by C.ss01;
+} ss01;
+```
+
+
+### Full Complex Structure
 
 ```afdko
 # Establish the geographic and script locale
@@ -22,9 +49,15 @@ languagesystem latn dflt;
 @ss01_off = [A      B      C     ];
 @ss01_on  = [A.ss01 B.ss01 C.ss01];
 
+# Optional: Make a "lookup" that you can reference later as many times as you want.
+lookup my_cool_lookup {
+  sub @ss01_off by @ss01_on;
+} my_cool_lookup;
+
 # Write a feature, in this case, Stylistic Set 1
 feature ss01 {
-    sub @ss01_off by @ss01_on;
+	# Reference the lookup you set  up earlier
+    lookup myAlternates;
 } ss01;
 ```
 
@@ -66,5 +99,5 @@ These were listed in alphabetical order, but then reordered for grouping purpose
 | `swsh`          | Swash                               | Glyph swaps from default glyphs to swash glyphs.
 | `zero`          | Slashed Zero                        | Glyph swaps from default zeros to slashed zeros.
 
-For a list of all supported OpenType features, refer to [here](https://learn.microsoft.com/en-us/typography/opentype/spec/featurelist).
+For a list of all supported OpenType features, refer to [this link](https://learn.microsoft.com/en-us/typography/opentype/spec/featurelist).
 
