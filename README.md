@@ -74,7 +74,7 @@ feature ss01 {
 
 
 ### Complex Structure
-As your desired features become more and more complex, it would be a good idea to use good organizational habits, as seen in the last example. Below, you will see:
+As your desired features become more and more complex, it would be a good idea to use good organizational habits, as seen here. Below, you will see:
 
 * Script tags
 * Defined @ variables
@@ -99,11 +99,10 @@ lookup my_cool_lookup {
 
 # Write a feature, in this case, Stylistic Set 1
 feature ss01 {
-    # Optional: Define the feature name for Stylistic Set 01
+    # Optional: Define the feature name for Stylistic Set 1
     featureNames {
-        name 1 0 0 "My Cool Set";  # Unicode platform, Default script, Default language
+        name 1 0 0 "My Cool Set";  # Numbers are Unicode platform, Default script, Default language
     };
-    
     # Reference the lookup you set up earlier
     lookup my_cool_lookup;
 } ss01;
