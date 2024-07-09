@@ -110,7 +110,7 @@ feature ss01 {
 
 ## Resources
 
-* [Quick-Reference](OT_Features-Quick_Reference-RB.pdf) of what feature tags correspond to which buttons in your favorite apps, from this repo.
+* [Quick-Reference](OT_Features-Quick_Reference-RB.pdf) of what feature tags correspond to which buttons in your favorite apps, from this repo
 * [OpenType Cookbook](https://opentypecookbook.com/), by Tal Leming
 * [Introduction to OpenType Programming](https://simoncozens.github.io/fonts-and-layout/features.html), by Simon Cozens
 * [OpenType Feature File Specification](https://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html), by Adobe
