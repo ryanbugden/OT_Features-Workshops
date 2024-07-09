@@ -15,11 +15,11 @@ To enhance your fonts with the added power of OpenType features, all you need to
 
 ### Minimal but still works
 ```afdko
-# Simply initialize the feature...
+# Simply initialize the feature, in this case Standard Ligatures...
 feature liga {
-	# ... make a swap rule ...
+	# make a swap rule ...
     sub f f by f_f;
-# ... and close the feature.
+# and close the feature.
 } liga;
 ```
 
