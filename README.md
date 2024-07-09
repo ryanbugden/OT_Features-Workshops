@@ -83,7 +83,7 @@ languagesystem latn dflt;
 
 # Optional: Make a "lookup" that you can reference later as many times as you want.
 lookup my_cool_lookup {
-  sub @ss01_off by @ss01_on;
+    sub @ss01_off by @ss01_on;
 } my_cool_lookup;
 
 # Write a feature, in this case, Stylistic Set 1
