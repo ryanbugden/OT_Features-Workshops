@@ -49,7 +49,7 @@ For a list of all supported OpenType features, refer to [this link](https://lear
 ```afdko
 # Simply initialize the feature, in this case Standard Ligatures...
 feature liga {
-	# make a swap rule ...
+    # make a swap rule ...
     sub f f by f_f;
 # and close the feature.
 } liga;
@@ -63,9 +63,9 @@ languagesystem latn dflt;
 
 # Write a feature, in this case, Stylistic Set 1
 feature ss01 {
-	sub A by A.ss01;
-	sub B by B.ss01;
-	sub C by C.ss01;
+    sub A by A.ss01;
+    sub B by B.ss01;
+    sub C by C.ss01;
 } ss01;
 ```
 
