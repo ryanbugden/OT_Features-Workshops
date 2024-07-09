@@ -19,8 +19,8 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 
 # Optional: Set up some nice organized swappable sets of glyph names, stored in “variables”
-@ss01_off = [B      P     ];
-@ss01_on  = [B.ss01 P.ss01];
+@ss01_off = [A      B      C     ];
+@ss01_on  = [A.ss01 B.ss01 C.ss01];
 
 # Write a feature, in this case, Stylistic Set 1
 feature ss01 {
