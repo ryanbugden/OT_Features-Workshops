@@ -3,23 +3,20 @@
 	<advance width="412"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="260" y="686" type="curve"/>
-			<point x="220" y="686"/>
-			<point x="188" y="654"/>
-			<point x="188" y="614" type="curve"/>
-			<point x="188" y="574"/>
-			<point x="220" y="542"/>
 			<point x="260" y="542" type="curve"/>
 			<point x="300" y="542"/>
 			<point x="332" y="574"/>
 			<point x="332" y="614" type="curve"/>
 			<point x="332" y="654"/>
 			<point x="300" y="686"/>
+			<point name="hintSet0000" x="260" y="686" type="curve"/>
+			<point x="220" y="686"/>
+			<point x="188" y="654"/>
+			<point x="188" y="614" type="curve"/>
+			<point x="188" y="574"/>
+			<point x="220" y="542"/>
 		</contour>
 		<contour>
-			<point x="56" y="190" type="curve"/>
-			<point x="56" y="78"/>
-			<point x="176" y="8"/>
 			<point x="308" y="-12" type="curve"/>
 			<point x="328" y="-4"/>
 			<point x="348" y="16"/>
@@ -50,6 +47,9 @@
 			<point x="172" y="342" type="line"/>
 			<point name="hintSet0020" x="100" y="306"/>
 			<point x="56" y="270"/>
+			<point x="56" y="190" type="curve"/>
+			<point x="56" y="78"/>
+			<point x="176" y="8"/>
 		</contour>
 	</outline>
 	<lib>

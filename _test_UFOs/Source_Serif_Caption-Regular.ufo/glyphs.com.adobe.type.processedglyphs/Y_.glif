@@ -4,6 +4,15 @@
 	<advance width="700"/>
 	<outline>
 		<contour>
+			<point x="180" y="0" type="line"/>
+			<point x="520" y="0" type="line"/>
+			<point x="520" y="64" type="line"/>
+			<point x="404" y="64" type="line"/>
+			<point x="404" y="228" type="line"/>
+			<point name="hintSet0019" x="602" y="606" type="line"/>
+			<point x="688" y="606" type="line"/>
+			<point x="688" y="670" type="line"/>
+			<point x="428" y="670" type="line"/>
 			<point name="hintSet0000" x="428" y="606" type="line"/>
 			<point x="525" y="606" type="line"/>
 			<point x="467" y="489" type="line"/>
@@ -18,15 +27,6 @@
 			<point name="hintSet0011" x="296" y="228" type="line"/>
 			<point x="296" y="64" type="line"/>
 			<point x="180" y="64" type="line"/>
-			<point x="180" y="0" type="line"/>
-			<point x="520" y="0" type="line"/>
-			<point x="520" y="64" type="line"/>
-			<point x="404" y="64" type="line"/>
-			<point x="404" y="228" type="line"/>
-			<point name="hintSet0019" x="602" y="606" type="line"/>
-			<point x="688" y="606" type="line"/>
-			<point x="688" y="670" type="line"/>
-			<point x="428" y="670" type="line"/>
 		</contour>
 	</outline>
 	<lib>

@@ -4,21 +4,15 @@
 	<advance width="660"/>
 	<outline>
 		<contour>
-			<point name="hintSet0000" x="368" y="448" type="curve"/>
-			<point x="448" y="448"/>
-			<point x="508" y="388"/>
-			<point x="508" y="252" type="curve"/>
-			<point x="508" y="116"/>
-			<point x="448" y="56"/>
-			<point x="368" y="56" type="curve"/>
-			<point x="310" y="56"/>
-			<point x="270" y="84"/>
-			<point x="228" y="135" type="curve"/>
-			<point x="228" y="369" type="line"/>
-			<point x="270" y="420"/>
-			<point x="310" y="448"/>
-		</contour>
-		<contour>
+			<point x="48" y="-225" type="line"/>
+			<point x="324" y="-225" type="line"/>
+			<point x="324" y="-165" type="line"/>
+			<point x="228" y="-165" type="line"/>
+			<point x="228" y="-61" type="line"/>
+			<point x="220" y="88" type="line"/>
+			<point x="252" y="88" type="line"/>
+			<point name="hintSet0025" x="280" y="36"/>
+			<point x="312" y="-12"/>
 			<point x="400" y="-12" type="curve"/>
 			<point x="520" y="-12"/>
 			<point x="612" y="84"/>
@@ -37,15 +31,21 @@
 			<point x="132" y="416" type="line"/>
 			<point x="132" y="-165" type="line"/>
 			<point x="48" y="-165" type="line"/>
-			<point x="48" y="-225" type="line"/>
-			<point x="324" y="-225" type="line"/>
-			<point x="324" y="-165" type="line"/>
-			<point x="228" y="-165" type="line"/>
-			<point x="228" y="-61" type="line"/>
-			<point x="220" y="88" type="line"/>
-			<point x="252" y="88" type="line"/>
-			<point name="hintSet0025" x="280" y="36"/>
-			<point x="312" y="-12"/>
+		</contour>
+		<contour>
+			<point x="368" y="56" type="curve"/>
+			<point x="310" y="56"/>
+			<point x="270" y="84"/>
+			<point x="228" y="135" type="curve"/>
+			<point x="228" y="369" type="line"/>
+			<point x="270" y="420"/>
+			<point x="310" y="448"/>
+			<point name="hintSet0000" x="368" y="448" type="curve"/>
+			<point x="448" y="448"/>
+			<point x="508" y="388"/>
+			<point x="508" y="252" type="curve"/>
+			<point x="508" y="116"/>
+			<point x="448" y="56"/>
 		</contour>
 	</outline>
 	<lib>
