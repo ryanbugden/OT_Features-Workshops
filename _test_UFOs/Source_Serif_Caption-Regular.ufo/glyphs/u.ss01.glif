@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.ss01" format="2">
+	<outline>
+		<contour>
+			<point x="-134" y="331" type="curve" smooth="yes"/>
+			<point x="-162" y="360"/>
+			<point x="-198" y="361"/>
+			<point x="-229" y="353" type="curve"/>
+			<point x="-243" y="367" type="line"/>
+			<point x="-260" y="350" type="line"/>
+			<point x="-226" y="344"/>
+			<point x="-195" y="333"/>
+			<point x="-175" y="313" type="curve" smooth="yes"/>
+			<point x="-153" y="290"/>
+			<point x="-154" y="269"/>
+			<point x="-181" y="242" type="curve" smooth="yes"/>
+			<point x="-257" y="166" type="line"/>
+			<point x="-297" y="126" type="line"/>
+			<point x="-283" y="112" type="line"/>
+			<point x="-223" y="67" type="line"/>
+			<point x="-206" y="84" type="line"/>
+			<point x="-244" y="139" type="line"/>
+			<point x="-247" y="108" type="line"/>
+			<point x="-138" y="217" type="line" smooth="yes"/>
+			<point x="-100" y="255"/>
+			<point x="-97" y="295"/>
+		</contour>
+		<contour>
+			<point x="-208" y="402" type="line"/>
+			<point x="-270" y="459" type="line"/>
+			<point x="-288" y="440" type="line"/>
+			<point x="-263" y="404" type="line"/>
+			<point x="-379" y="288" type="line"/>
+			<point x="-418" y="248" type="line"/>
+			<point x="-404" y="234" type="line"/>
+			<point x="-345" y="189" type="line"/>
+			<point x="-328" y="206" type="line"/>
+			<point x="-355" y="244" type="line"/>
+			<point x="-240" y="358" type="line"/>
+			<point x="-243" y="361" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="aboveLC" x="-345" y="161"/>
+	<anchor name="belowLC" x="-161" y="364"/>
+	<anchor name="hornLC" x="-387" y="253"/>
+	<anchor name="ogonek" x="-246" y="435"/>
+</glyph>

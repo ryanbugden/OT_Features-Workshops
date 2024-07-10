@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.ss01" format="2">
+	<outline>
+		<contour>
+			<point x="-172" y="109" type="line"/>
+			<point x="-205" y="147" type="line"/>
+			<point x="-219" y="161" type="line"/>
+			<point x="-261" y="198" type="line"/>
+			<point x="-281" y="178" type="line"/>
+			<point x="-192" y="89" type="line"/>
+		</contour>
+		<contour>
+			<point x="-84" y="341" type="line"/>
+			<point x="-121" y="377" type="line"/>
+			<point x="-231" y="324" type="line"/>
+			<point x="-296" y="281" type="line"/>
+			<point x="-299" y="284" type="line"/>
+			<point x="-201" y="457" type="line"/>
+			<point x="-235" y="491" type="line"/>
+			<point x="-479" y="376" type="line"/>
+			<point x="-451" y="348" type="line"/>
+			<point x="-334" y="410" type="line"/>
+			<point x="-250" y="467" type="line"/>
+			<point x="-247" y="464" type="line"/>
+			<point x="-362" y="259" type="line"/>
+			<point x="-337" y="234" type="line"/>
+			<point x="-214" y="297" type="line"/>
+			<point x="-133" y="350" type="line"/>
+			<point x="-130" y="347" type="line"/>
+			<point x="-247" y="144" type="line"/>
+			<point x="-209" y="106" type="line"/>
+		</contour>
+		<contour>
+			<point x="-285" y="222" type="line"/>
+			<point x="-315" y="254" type="line"/>
+			<point x="-342" y="281" type="line"/>
+			<point x="-374" y="311" type="line"/>
+			<point x="-394" y="291" type="line"/>
+			<point x="-305" y="202" type="line"/>
+		</contour>
+		<contour>
+			<point x="-400" y="336" type="line"/>
+			<point x="-429" y="372" type="line"/>
+			<point x="-444" y="386" type="line"/>
+			<point x="-476" y="413" type="line"/>
+			<point x="-496" y="393" type="line"/>
+			<point x="-419" y="317" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="aboveLC" x="-361" y="244"/>
+	<anchor name="belowLC" x="-160" y="431"/>
+</glyph>

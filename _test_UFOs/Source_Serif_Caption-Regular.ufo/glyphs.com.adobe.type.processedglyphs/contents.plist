@@ -108,18 +108,30 @@
 		<string>Z_.sc.glif</string>
 		<key>a</key>
 		<string>a.glif</string>
+		<key>a.ss01</key>
+		<string>a.ss01.glif</string>
 		<key>b</key>
 		<string>b.glif</string>
+		<key>b.ss01</key>
+		<string>b.ss01.glif</string>
 		<key>c</key>
 		<string>c.glif</string>
+		<key>c.ss01</key>
+		<string>c.ss01.glif</string>
 		<key>colon</key>
 		<string>colon.glif</string>
 		<key>comma</key>
 		<string>comma.glif</string>
 		<key>d</key>
 		<string>d.glif</string>
+		<key>d.copy_1</key>
+		<string>d.copy_1.glif</string>
+		<key>d.ss01</key>
+		<string>d.ss01.glif</string>
 		<key>e</key>
 		<string>e.glif</string>
+		<key>e.ss01</key>
+		<string>e.ss01.glif</string>
 		<key>eight.cap</key>
 		<string>eight.cap.glif</string>
 		<key>eight.lf</key>
@@ -138,6 +150,8 @@
 		<string>exclamdown.cap.glif</string>
 		<key>f</key>
 		<string>f.glif</string>
+		<key>f.ss01</key>
+		<string>f.ss01.glif</string>
 		<key>five.cap</key>
 		<string>five.cap.glif</string>
 		<key>five.lf</key>
@@ -156,6 +170,8 @@
 		<string>four.tosf.glif</string>
 		<key>g</key>
 		<string>g.glif</string>
+		<key>g.ss01</key>
+		<string>g.ss01.glif</string>
 		<key>guillemetleft</key>
 		<string>guillemetleft.glif</string>
 		<key>guilsinglleft</key>
@@ -164,18 +180,32 @@
 		<string>guilsinglright.glif</string>
 		<key>h</key>
 		<string>h.glif</string>
+		<key>h.ss01</key>
+		<string>h.ss01.glif</string>
 		<key>i</key>
 		<string>i.glif</string>
+		<key>i.ss01</key>
+		<string>i.ss01.glif</string>
 		<key>j</key>
 		<string>j.glif</string>
+		<key>j.ss01</key>
+		<string>j.ss01.glif</string>
 		<key>k</key>
 		<string>k.glif</string>
+		<key>k.ss01</key>
+		<string>k.ss01.glif</string>
 		<key>l</key>
 		<string>l.glif</string>
+		<key>l.ss01</key>
+		<string>l.ss01.glif</string>
 		<key>m</key>
 		<string>m.glif</string>
+		<key>m.ss01</key>
+		<string>m.ss01.glif</string>
 		<key>n</key>
 		<string>n.glif</string>
+		<key>n.ss01</key>
+		<string>n.ss01.glif</string>
 		<key>nine.cap</key>
 		<string>nine.cap.glif</string>
 		<key>nine.lf</key>
@@ -186,6 +216,8 @@
 		<string>nine.tosf.glif</string>
 		<key>o</key>
 		<string>o.glif</string>
+		<key>o.ss01</key>
+		<string>o.ss01.glif</string>
 		<key>one.cap</key>
 		<string>one.cap.glif</string>
 		<key>one.lf</key>
@@ -196,10 +228,14 @@
 		<string>one.tosf.glif</string>
 		<key>p</key>
 		<string>p.glif</string>
+		<key>p.ss01</key>
+		<string>p.ss01.glif</string>
 		<key>period</key>
 		<string>period.glif</string>
 		<key>q</key>
 		<string>q.glif</string>
+		<key>q.ss01</key>
+		<string>q.ss01.glif</string>
 		<key>question</key>
 		<string>question.glif</string>
 		<key>questiondown</key>
@@ -224,8 +260,12 @@
 		<string>quotesingle.glif</string>
 		<key>r</key>
 		<string>r.glif</string>
+		<key>r.ss01</key>
+		<string>r.ss01.glif</string>
 		<key>s</key>
 		<string>s.glif</string>
+		<key>s.ss01</key>
+		<string>s.ss01.glif</string>
 		<key>semicolon</key>
 		<string>semicolon.glif</string>
 		<key>seven.cap</key>
@@ -246,6 +286,10 @@
 		<string>six.tosf.glif</string>
 		<key>t</key>
 		<string>t.glif</string>
+		<key>t.copy_1</key>
+		<string>t.copy_1.glif</string>
+		<key>t.ss01</key>
+		<string>t.ss01.glif</string>
 		<key>three.cap</key>
 		<string>three.cap.glif</string>
 		<key>three.lf</key>
@@ -264,16 +308,28 @@
 		<string>two.tosf.glif</string>
 		<key>u</key>
 		<string>u.glif</string>
+		<key>u.ss01</key>
+		<string>u.ss01.glif</string>
 		<key>v</key>
 		<string>v.glif</string>
+		<key>v.ss01</key>
+		<string>v.ss01.glif</string>
 		<key>w</key>
 		<string>w.glif</string>
+		<key>w.ss01</key>
+		<string>w.ss01.glif</string>
 		<key>x</key>
 		<string>x.glif</string>
+		<key>x.ss01</key>
+		<string>x.ss01.glif</string>
 		<key>y</key>
 		<string>y.glif</string>
+		<key>y.ss01</key>
+		<string>y.ss01.glif</string>
 		<key>z</key>
 		<string>z.glif</string>
+		<key>z.ss01</key>
+		<string>z.ss01.glif</string>
 		<key>zero.cap</key>
 		<string>zero.cap.glif</string>
 		<key>zero.lf</key>

@@ -347,6 +347,36 @@
 			<string>X.sc</string>
 			<string>Y.sc</string>
 			<string>Z.sc</string>
+			<string>t.copy_1</string>
+			<string>t.alt</string>
+			<string>a.ss01</string>
+			<string>b.ss01</string>
+			<string>c.ss01</string>
+			<string>d.ss01</string>
+			<string>e.ss01</string>
+			<string>f.ss01</string>
+			<string>g.ss01</string>
+			<string>h.ss01</string>
+			<string>i.ss01</string>
+			<string>j.ss01</string>
+			<string>k.ss01</string>
+			<string>l.ss01</string>
+			<string>m.ss01</string>
+			<string>n.ss01</string>
+			<string>o.ss01</string>
+			<string>p.ss01</string>
+			<string>q.ss01</string>
+			<string>r.ss01</string>
+			<string>s.ss01</string>
+			<string>t.ss01</string>
+			<string>u.ss01</string>
+			<string>v.ss01</string>
+			<string>w.ss01</string>
+			<string>x.ss01</string>
+			<string>y.ss01</string>
+			<string>z.ss01</string>
+			<string>d.copy_1</string>
+			<string>d.alt</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>
