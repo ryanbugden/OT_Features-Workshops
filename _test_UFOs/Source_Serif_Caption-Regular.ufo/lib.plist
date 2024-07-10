@@ -87,15 +87,6 @@
 					<string>eight.lf</string>
 					<string>nine.lf</string>
 					<string>zero.tosf</string>
-					<string>one.tosf</string>
-					<string>two.tosf</string>
-					<string>three.tosf</string>
-					<string>four.tosf</string>
-					<string>five.tosf</string>
-					<string>six.tosf</string>
-					<string>seven.tosf</string>
-					<string>eight.tosf</string>
-					<string>nine.tosf</string>
 					<string>zero.osf</string>
 					<string>one.osf</string>
 					<string>two.osf</string>
@@ -155,6 +146,46 @@
 					<string>X.sc</string>
 					<string>Y.sc</string>
 					<string>Z.sc</string>
+					<string>t.copy_1</string>
+					<string>t.alt</string>
+					<string>a.ss01</string>
+					<string>b.ss01</string>
+					<string>c.ss01</string>
+					<string>d.ss01</string>
+					<string>e.ss01</string>
+					<string>f.ss01</string>
+					<string>g.ss01</string>
+					<string>h.ss01</string>
+					<string>i.ss01</string>
+					<string>j.ss01</string>
+					<string>k.ss01</string>
+					<string>l.ss01</string>
+					<string>m.ss01</string>
+					<string>n.ss01</string>
+					<string>o.ss01</string>
+					<string>p.ss01</string>
+					<string>q.ss01</string>
+					<string>r.ss01</string>
+					<string>s.ss01</string>
+					<string>t.ss01</string>
+					<string>u.ss01</string>
+					<string>v.ss01</string>
+					<string>w.ss01</string>
+					<string>x.ss01</string>
+					<string>y.ss01</string>
+					<string>z.ss01</string>
+					<string>d.copy_1</string>
+					<string>d.alt</string>
+					<string>uncool</string>
+					<string>one.suffix</string>
+					<string>two.suffix</string>
+					<string>three.suffix</string>
+					<string>four.suffix</string>
+					<string>five.suffix</string>
+					<string>six.suffix</string>
+					<string>seven.suffix</string>
+					<string>eight.suffix</string>
+					<string>nine.suffix</string>
 				</array>
 				<key>type</key>
 				<string>glyphList</string>
@@ -279,15 +310,6 @@
 			<string>eight.lf</string>
 			<string>nine.lf</string>
 			<string>zero.tosf</string>
-			<string>one.tosf</string>
-			<string>two.tosf</string>
-			<string>three.tosf</string>
-			<string>four.tosf</string>
-			<string>five.tosf</string>
-			<string>six.tosf</string>
-			<string>seven.tosf</string>
-			<string>eight.tosf</string>
-			<string>nine.tosf</string>
 			<string>zero.osf</string>
 			<string>one.osf</string>
 			<string>two.osf</string>
@@ -378,6 +400,15 @@
 			<string>d.copy_1</string>
 			<string>d.alt</string>
 			<string>uncool</string>
+			<string>one.suffix</string>
+			<string>two.suffix</string>
+			<string>three.suffix</string>
+			<string>four.suffix</string>
+			<string>five.suffix</string>
+			<string>six.suffix</string>
+			<string>seven.suffix</string>
+			<string>eight.suffix</string>
+			<string>nine.suffix</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

@@ -138,8 +138,8 @@
 		<string>eight.lf.glif</string>
 		<key>eight.osf</key>
 		<string>eight.osf.glif</string>
-		<key>eight.tosf</key>
-		<string>eight.tosf.glif</string>
+		<key>eight.suffix</key>
+		<string>eight.suffix.glif</string>
 		<key>ellipsis</key>
 		<string>ellipsis.glif</string>
 		<key>exclam</key>
@@ -158,16 +158,16 @@
 		<string>five.lf.glif</string>
 		<key>five.osf</key>
 		<string>five.osf.glif</string>
-		<key>five.tosf</key>
-		<string>five.tosf.glif</string>
+		<key>five.suffix</key>
+		<string>five.suffix.glif</string>
 		<key>four.cap</key>
 		<string>four.cap.glif</string>
 		<key>four.lf</key>
 		<string>four.lf.glif</string>
 		<key>four.osf</key>
 		<string>four.osf.glif</string>
-		<key>four.tosf</key>
-		<string>four.tosf.glif</string>
+		<key>four.suffix</key>
+		<string>four.suffix.glif</string>
 		<key>g</key>
 		<string>g.glif</string>
 		<key>g.ss01</key>
@@ -212,8 +212,8 @@
 		<string>nine.lf.glif</string>
 		<key>nine.osf</key>
 		<string>nine.osf.glif</string>
-		<key>nine.tosf</key>
-		<string>nine.tosf.glif</string>
+		<key>nine.suffix</key>
+		<string>nine.suffix.glif</string>
 		<key>o</key>
 		<string>o.glif</string>
 		<key>o.ss01</key>
@@ -224,8 +224,8 @@
 		<string>one.lf.glif</string>
 		<key>one.osf</key>
 		<string>one.osf.glif</string>
-		<key>one.tosf</key>
-		<string>one.tosf.glif</string>
+		<key>one.suffix</key>
+		<string>one.suffix.glif</string>
 		<key>p</key>
 		<string>p.glif</string>
 		<key>p.ss01</key>
@@ -274,16 +274,16 @@
 		<string>seven.lf.glif</string>
 		<key>seven.osf</key>
 		<string>seven.osf.glif</string>
-		<key>seven.tosf</key>
-		<string>seven.tosf.glif</string>
+		<key>seven.suffix</key>
+		<string>seven.suffix.glif</string>
 		<key>six.cap</key>
 		<string>six.cap.glif</string>
 		<key>six.lf</key>
 		<string>six.lf.glif</string>
 		<key>six.osf</key>
 		<string>six.osf.glif</string>
-		<key>six.tosf</key>
-		<string>six.tosf.glif</string>
+		<key>six.suffix</key>
+		<string>six.suffix.glif</string>
 		<key>t</key>
 		<string>t.glif</string>
 		<key>t.copy_1</key>
@@ -296,16 +296,16 @@
 		<string>three.lf.glif</string>
 		<key>three.osf</key>
 		<string>three.osf.glif</string>
-		<key>three.tosf</key>
-		<string>three.tosf.glif</string>
+		<key>three.suffix</key>
+		<string>three.suffix.glif</string>
 		<key>two.cap</key>
 		<string>two.cap.glif</string>
 		<key>two.lf</key>
 		<string>two.lf.glif</string>
 		<key>two.osf</key>
 		<string>two.osf.glif</string>
-		<key>two.tosf</key>
-		<string>two.tosf.glif</string>
+		<key>two.suffix</key>
+		<string>two.suffix.glif</string>
 		<key>u</key>
 		<string>u.glif</string>
 		<key>u.ss01</key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eight.tosf" format="2">
+<glyph name="six.suffix" format="2">
 	<advance width="558"/>
 	<outline>
-		<component base="eight.osf" xOffset="12"/>
+		<component base="six.osf" xOffset="8"/>
 	</outline>
 </glyph>

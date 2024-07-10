@@ -1,11 +1,13 @@
 @lowercase = [a    b    c    d    e    f    g    h    i    j    k    l    m    n    o    p    q    r    s    t    u    v    w    x    y    z   ];
 @uppercase = [A    B    C    D    E    F    G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z   ];
-@sMaLlCaPs = [A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc];
+@smallcaps = [A.sc B.sc C.sc D.sc E.sc F.sc G.sc H.sc I.sc J.sc K.sc L.sc M.sc N.sc O.sc P.sc Q.sc R.sc S.sc T.sc U.sc V.sc W.sc X.sc Y.sc Z.sc];
 
+# smcp traditionally replaces lowercase with small-caps, so let's do that
 feature smcp {
-    sub @lowercase by @sMaLlCaPs;
+    sub @lowercase by @smallcaps;
 } smcp;
 
+# c2sc traditionally replaces caps with small-caps, so let's do that
 feature c2sc {
-    sub @uppercase by @sMaLlCaPs;
+    sub @uppercase by @smallcaps;
 } c2sc;

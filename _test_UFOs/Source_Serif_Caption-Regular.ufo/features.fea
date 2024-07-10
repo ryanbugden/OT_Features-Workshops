@@ -1,7 +1,15 @@
-languagesystem DFLT dflt;
-languagesystem latn dflt;
+# languagesystem DFLT dflt;
+# languagesystem latn dflt;
 
-feature ss01 {
-    sub c o o l by uncool;
-} ss01;
 
+# feature ss01 {
+#     sub c o o l by u n c o o l;
+# } ss01;
+
+# feature dlig {
+#     sub d by d.alt;
+# } dlig;
+
+# # feature frac {
+# #     sub p i' n e a p p l e by i.alt;
+# # } frac;

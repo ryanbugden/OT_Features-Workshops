@@ -1,6 +1,9 @@
+# Make a class for lowercase glyphs
 @lowercase = [a      b      c      d      e      f      g      h      i      j      k      l      m      n      o      p      q      r      s      t      u      v      w      x      y      z     ];
+# Make a class for rotated glyphs. In this case, I've arbitrarily used the ss01 suffix
 @rotated   = [a.ss01 b.ss01 c.ss01 d.ss01 e.ss01 f.ss01 g.ss01 h.ss01 i.ss01 j.ss01 k.ss01 l.ss01 m.ss01 n.ss01 o.ss01 p.ss01 q.ss01 r.ss01 s.ss01 t.ss01 u.ss01 v.ss01 w.ss01 x.ss01 y.ss01 z.ss01];
 
+# Write the feature
 feature ss01 {
     sub @lowercase by @rotated;
 } ss01;
