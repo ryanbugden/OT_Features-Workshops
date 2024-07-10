@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uncool" format="2">
+	<advance width="3470"/>
+	<outline>
+		<component base="u"/>
+		<component base="n" xOffset="672"/>
+		<component base="c" xOffset="1352"/>
+		<component base="o" xOffset="1904"/>
+		<component base="o" xOffset="2512"/>
+		<component base="l" xOffset="3110"/>
+	</outline>
+</glyph>
